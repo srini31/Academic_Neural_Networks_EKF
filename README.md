@@ -1,1 +1,3 @@
-# Academic_Neural_Networks_EKF
+# Academic: Neural-Networks-Extended-Kalman-Filter(EKF)
+
+This Project compares the Extended Kalman Filter (EKF) Algorithm with the Steepest Descent with Back Propagation Algorithm(SDBP) to determine the convergence criteria and efficiency of the EKF Algorithm by viewing the problem of training feed forward Neural Networks as an identification problem for solving non-linear dynamic system problems. A sine wave is taken as the target and the Network is trained by both EKF and SDBP and the results are compared. This project is based on the paper titled "Training Feed Forward Networks with the Extended Kalman Algorithm" written by Sharad Singhal and Lance Wu.
